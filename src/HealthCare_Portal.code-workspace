@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "HealthCare_Portal",
+			"path": "../.."
+		},
+		{
+			"name": "assets",
+			"path": "../../../Downloads/prescripto_assets/assets"
+		}
+	],
+	"settings": {}
+}
